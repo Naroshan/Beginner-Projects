@@ -1,1 +1,1 @@
-# CLI
+beginner projects
